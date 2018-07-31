@@ -1,0 +1,10 @@
+name: SkyTicTacToe
+main: com.skyerzz.tictactoe.TicTacToe
+version: 1.0.0
+author: skyerzz
+description: TicTacToe game
+commands:
+  tictactoe:
+    description: command to play
+    usage: /tictactoe <invite|accept|spectate> <player>
+    aliases: [ttt]
